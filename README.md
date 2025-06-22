@@ -91,6 +91,10 @@ Run the following to check coverage:
 
 Generates:
 
+![image](https://github.com/user-attachments/assets/d6417f57-6783-4e23-9fb0-7eda79860e87)
+
+
+
 * Line, Function, and Branch coverage report
 * `coverage/` folder with full HTML report
 
