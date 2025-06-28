@@ -1,0 +1,393 @@
+🐰 Keploy: 2025-06-28T07:54:35+05:30 	[34mINFO[0m	config file not found; proceeding with flags only
+🐰 Keploy: 2025-06-28T07:54:35+05:30 	[31mERROR[0m	failed to validate flags	{"error": "missing required -c flag or appCmd in config file"}
+🐰 Keploy: 2025-06-28T07:54:35+05:30 	[31mERROR[0m	Error removing file	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T07:54:35+05:30 	[31mERROR[0m	Failed to delete Keploy Logs	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T07:58:06+05:30 	[34mINFO[0m	config file not found; proceeding with flags only
+🐰 Keploy: 2025-06-28T07:58:07+05:30 	[34mINFO[0m	Using the last directory name as appName : backend
+🐰 Keploy: 2025-06-28T07:58:07+05:30 	[34mINFO[0m	Generated config file based on the flags that are used
+🐰 Keploy: 2025-06-28T07:58:07+05:30 	[31mERROR[0m	failed to get service	{"command": "record", "error": "command not supported in non linux os. if you are on windows or mac, please use the dockerized version of your application"}
+🐰 Keploy: 2025-06-28T07:58:07+05:30 	[31mERROR[0m	Error removing file	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T07:58:07+05:30 	[31mERROR[0m	Failed to delete Keploy Logs	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T07:59:50+05:30 	[31mERROR[0m	failed to get service	{"command": "record", "error": "command not supported in non linux os. if you are on windows or mac, please use the dockerized version of your application"}
+🐰 Keploy: 2025-06-28T07:59:50+05:30 	[31mERROR[0m	Error removing file	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T07:59:50+05:30 	[31mERROR[0m	Failed to delete Keploy Logs	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T08:07:29+05:30 	[34mINFO[0m	Starting keploy in docker with image	{"image:": "ghcr.io/keploy/keploy:v2.6.14"}
+🐰 Keploy: 2025-06-28T08:07:29+05:30 	[34mINFO[0m	Starting keploy in docker with default context, as that is the current context.
+🐰 Keploy: 2025-06-28T08:07:30+05:30 	[31mERROR[0m	failed to start keploy in docker	{"error": "exit status 125"}
+🐰 Keploy: 2025-06-28T08:07:30+05:30 	[31mERROR[0m	failed to run the command in docker	{"error": "exit status 125"}
+🐰 Keploy: 2025-06-28T08:07:30+05:30 	[31mERROR[0m	failed to validate flags	{"error": "exit status 125"}
+🐰 Keploy: 2025-06-28T08:07:30+05:30 	[31mERROR[0m	Error removing file	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T08:07:30+05:30 	[31mERROR[0m	Failed to delete Keploy Logs	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T08:14:24+05:30 	[34mINFO[0m	Starting keploy in docker with image	{"image:": "ghcr.io/keploy/keploy:v2.6.14"}
+🐰 Keploy: 2025-06-28T08:14:24+05:30 	[34mINFO[0m	Starting keploy in docker with default context, as that is the current context.
+🐰 Keploy: 2025-06-28T08:14:24+05:30 	[31mERROR[0m	failed to start keploy in docker	{"error": "exit status 125"}
+🐰 Keploy: 2025-06-28T08:14:24+05:30 	[31mERROR[0m	failed to run the command in docker	{"error": "exit status 125"}
+🐰 Keploy: 2025-06-28T08:14:24+05:30 	[31mERROR[0m	failed to validate flags	{"error": "exit status 125"}
+🐰 Keploy: 2025-06-28T08:14:24+05:30 	[31mERROR[0m	Error removing file	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T08:14:24+05:30 	[31mERROR[0m	Failed to delete Keploy Logs	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T08:19:11+05:30 	[34mINFO[0m	Starting keploy in docker with image	{"image:": "ghcr.io/keploy/keploy:v2.6.14"}
+🐰 Keploy: 2025-06-28T08:19:11+05:30 	[34mINFO[0m	Starting keploy in docker with default context, as that is the current context.
+🐰 Keploy: 2025-06-28T02:50:55Z 	[34mINFO[0m	detected that Keploy is running in a docker container
+🐰 Keploy: 2025-06-28T02:50:55Z 	[34mINFO[0m	trying to inject network:keploy-network to the keploy container
+🐰 Keploy: 2025-06-28T02:50:55Z 	[34mINFO[0m	Successfully injected network to the keploy container	{"Keploy container": "keploy-v2", "appNetwork": "keploy-network", "keploy container ip": "172.19.0.2"}
+🐰 Keploy: 2025-06-28T02:50:57Z 	[34mINFO[0m	keploy initialized and probes added to the kernel.
+🐰 Keploy: 2025-06-28T02:50:59Z 	[34mINFO[0m	starting UDP DNS server at addr :26789
+🐰 Keploy: 2025-06-28T02:50:59Z 	[34mINFO[0m	starting TCP DNS server at addr :26789
+🐰 Keploy: 2025-06-28T02:50:59Z 	[34mINFO[0m	Keploy has taken control of the DNS resolution mechanism, your application may misbehave if you have provided wrong domain name in your application code.
+🐰 Keploy: 2025-06-28T02:50:59Z 	[34mINFO[0m	Proxy started at port:16789
+🐰 Keploy: 2025-06-28T02:51:01Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:01Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:01Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:01Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:01Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:01Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:02Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:03Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:04Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:05Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:06Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:06Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:06Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:06Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:06Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:06Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:06Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:06Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:07Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:08Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:09Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:10Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:11Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:12Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:13Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:14Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:15Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:16Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:17Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:18Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:19Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:20Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:21Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:21Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:21Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:21Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:21Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:21Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:21Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:21Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:22Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:23Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:24Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:25Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:26Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:27Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:28Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:29Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:30Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:31Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:31Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:31Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:31Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:31Z 	[31mERROR[0m	failed to complete TLS handshake with the client	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T02:51:31Z 	[31mERROR[0m	failed to handle TLS conn	{"error": "EOF"}
+🐰 Keploy: 2025-06-28T03:06:15Z 	[34mINFO[0m	proxy stopped...
+🐰 Keploy: 2025-06-28T03:06:17Z 	[34mINFO[0m	eBPF resources released successfully...
+🐰 Keploy: 2025-06-28T03:06:17Z 	[31mERROR[0m	Error removing file	{"error": "remove keploy-logs.txt: permission denied"}
+🐰 Keploy: 2025-06-28T03:06:17Z 	[31mERROR[0m	Failed to delete Keploy Logs	{"error": "remove keploy-logs.txt: permission denied"}
+🐰 Keploy: 2025-06-28T08:36:18+05:30 	[34mINFO[0m	exiting the current process as the command is moved to docker
+🐰 Keploy: 2025-06-28T08:37:22+05:30 	[34mINFO[0m	Successfully logged in to Keploy using GitHub as yashsinhays20@gmail.com
+🐰 Keploy: 2025-06-28T08:37:22+05:30 	[31mERROR[0m	Error removing file	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
+🐰 Keploy: 2025-06-28T08:37:22+05:30 	[31mERROR[0m	Failed to delete Keploy Logs	{"error": "remove keploy-logs.txt: The process cannot access the file because it is being used by another process."}
